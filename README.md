@@ -11,6 +11,6 @@ Orignial Group Work
 * [CTA Rideship Trend visualization last 10 Years](https://github.com/Atchub1)
 * [Sentiment Analysis of Tweets about the CTA](https://github.com/Atchub1/Project_3)
 
-![CTA](https://66.media.tumblr.com/342ad1138cd863a717668473ab34643b/tumblr_nn89tp0aMs1qa07aro4_500.gif)
+![Cottage Grove Train](https://github.com/Atchub1/CTAProject/blob/master/Images/CottageGrove.JPG)
 
 In this project we built a web dashboard which shows a ridership trend for the Chicago Transit Authority (CTA) over last years.
