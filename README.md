@@ -1,13 +1,15 @@
-# Project Details:
+### Dashboard for CTA Ridership Trends and Rider Sentiment 
+##### Amy Cleveland
+Based on work by
+[Amy Cleveland](https://github.com/),
+[Joseph Wantroba](https://github.com/jwantrob),
+[Garima Chauhan](https://github.com/GarimaChauhan16),
+[Gabriela Hernandez](https://github.com/gaby614), and
+[Kelly Lao](https://github.com/Kellylao325)
 
-## CTA Rideship Trend visualization last 10 Years.
-
-Team Members: 
-1. Amy Cleveland
-2. Gabriela Hernandez
-3. Garima Chauhan
-4. Joseph Wantroba
-5. Kelly Lao
+Orignial Group Work
+* [CTA Rideship Trend visualization last 10 Years](https://github.com/Atchub1)
+* [Sentiment Analysis of Tweets about the CTA](https://github.com/Atchub1/Project_3)
 
 ![CTA](https://66.media.tumblr.com/342ad1138cd863a717668473ab34643b/tumblr_nn89tp0aMs1qa07aro4_500.gif)
 
