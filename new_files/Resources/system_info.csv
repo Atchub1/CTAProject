@@ -1,0 +1,301 @@
+,Station_Name,Station_ID,Station_Name_old,ADA,Red,Blue,Green,Brown,Purple,Purple_Express,Yellow,Pink,Orange,Historical_Wards_2003-2015,Zip_Codes,Community_Areas,Census_Tracts,Wards
+0,18th,40830,18th,True,False,False,False,False,False,False,False,True,False,8.0,14920,33.0,343.0,26.0
+1,18th,40830,18th,True,False,False,False,False,False,False,False,True,False,8.0,14920,33.0,343.0,26.0
+2,35-Bronzeville-IIT,41120,35th-Bronzeville-IIT,True,False,False,True,False,False,False,False,False,False,12.0,21194,1.0,25.0,9.0
+3,35-Bronzeville-IIT,41120,35th-Bronzeville-IIT,True,False,False,True,False,False,False,False,False,False,12.0,21194,1.0,25.0,9.0
+4,35th-Archer,40120,35th-Archer,True,False,False,False,False,False,False,False,False,True,26.0,14924,56.0,719.0,1.0
+5,35th-Archer,40120,35th-Archer,True,False,False,False,False,False,False,False,False,True,26.0,14924,56.0,719.0,1.0
+6,43rd,41270,43rd,True,False,False,True,False,False,False,False,False,False,12.0,4301,4.0,162.0,9.0
+7,43rd,41270,43rd,True,False,False,True,False,False,False,False,False,False,12.0,4301,4.0,162.0,9.0
+8,47th-Dan Ryan,41230,47th,True,True,False,False,False,False,False,False,False,False,12.0,14924,3.0,189.0,9.0
+9,47th-Dan Ryan,41230,47th,True,True,False,False,False,False,False,False,False,False,12.0,14924,3.0,189.0,9.0
+10,47th-South Elevated,41080,47th,True,False,False,True,False,False,False,False,False,False,12.0,21192,4.0,448.0,9.0
+11,47th-South Elevated,41080,47th,True,False,False,True,False,False,False,False,False,False,12.0,21192,4.0,448.0,9.0
+12,51st,40130,51st,True,False,False,True,False,False,False,False,False,False,12.0,21192,4.0,449.0,9.0
+13,51st,40130,51st,True,False,False,True,False,False,False,False,False,False,12.0,21192,4.0,449.0,9.0
+14,54th-Cermak,40580,54th-Cermak,True,False,False,False,False,False,False,False,True,False,,4458,,,
+15,54th-Cermak,40580,54th-Cermak,True,False,False,False,False,False,False,False,True,False,,4458,,,
+16,63rd-Dan Ryan,40910,63rd,True,True,False,False,False,False,False,False,False,False,53.0,21559,66.0,166.0,4.0
+17,63rd-Dan Ryan,40910,63rd,True,True,False,False,False,False,False,False,False,False,53.0,21559,66.0,166.0,4.0
+18,69th,40990,69th,True,True,False,False,False,False,False,False,False,False,31.0,21559,67.0,513.0,32.0
+19,69th,40990,69th,True,True,False,False,False,False,False,False,False,False,31.0,21559,67.0,513.0,32.0
+20,79th,40240,79th,True,True,False,False,False,False,False,False,False,False,31.0,21554,40.0,1.0,32.0
+21,79th,40240,79th,True,True,False,False,False,False,False,False,False,False,31.0,21554,40.0,1.0,32.0
+22,87th,41430,87th,True,True,False,False,False,False,False,False,False,False,18.0,21554,40.0,1.0,13.0
+23,87th,41430,87th,True,True,False,False,False,False,False,False,False,False,18.0,21554,40.0,1.0,13.0
+24,95th-Dan Ryan,40450,95th-Dan Ryan,True,True,False,False,False,False,False,False,False,False,18.0,21861,45.0,187.0,13.0
+25,95th-Dan Ryan,40450,95th-Ran Ryan,True,True,False,False,False,False,False,False,False,False,18.0,21861,45.0,187.0,13.0
+26,Adams-Wabash,40680,Adams-Wabash,False,False,False,True,False,False,True,False,True,True,22.0,14912,38.0,367.0,36.0
+27,Adams-Wabash,40680,Adams-Wabash,False,False,False,True,True,False,False,False,False,False,22.0,14912,38.0,367.0,36.0
+28,Addison-Brown,41440,Addison,True,False,False,False,True,False,False,False,False,False,13.0,21186,46.0,644.0,18.0
+29,Addison-Brown,41440,Addison,True,False,False,False,True,False,False,False,False,False,13.0,21186,46.0,644.0,18.0
+30,Addison-North Main,41420,Addison,True,True,False,False,False,False,False,False,False,False,38.0,21186,57.0,727.0,25.0
+31,Addison-North Main,41420,Addison,True,True,False,False,False,False,False,False,False,False,38.0,21186,57.0,727.0,25.0
+32,Addison-O'Hare,41240,Addison,True,False,True,False,False,False,False,False,False,False,15.0,21538,16.0,326.0,50.0
+33,Addison-O'Hare,41240,Addison,True,False,True,False,False,False,False,False,False,False,15.0,21538,16.0,326.0,50.0
+34,Argyle,41200,Argyle,False,True,False,False,False,False,False,False,False,False,40.0,22616,31.0,634.0,16.0
+35,Argyle,41200,Argyle,False,True,False,False,False,False,False,False,False,False,40.0,22616,31.0,634.0,16.0
+36,Armitage,40660,Armitage,True,False,False,False,True,False,True,False,False,False,51.0,21190,68.0,744.0,34.0
+37,Armitage,40660,Armitage,True,False,False,False,True,False,True,False,False,False,51.0,21190,68.0,744.0,34.0
+38,Ashland-63rd,40290,Ashland-63rd,True,False,False,True,False,False,False,False,False,False,19.0,22257,65.0,279.0,2.0
+39,Ashland-63rd,40290,Ashland-63rd,True,False,False,True,False,False,False,False,False,False,19.0,22257,65.0,279.0,2.0
+40,Ashland-Lake,40170,Ashland,True,False,False,True,False,False,False,False,True,False,41.0,14917,29.0,579.0,46.0
+41,Ashland-Lake,40170,Ashland,True,False,False,True,False,False,False,False,True,False,41.0,14917,29.0,579.0,46.0
+42,Ashland-Orange,41060,Ashland,True,False,False,False,False,False,False,False,False,True,26.0,14920,33.0,126.0,26.0
+43,Ashland-Orange,41060,Ashland,True,False,False,False,False,False,False,False,False,True,26.0,14920,33.0,126.0,26.0
+44,Austin-Forest Park,40010,Austin,False,False,True,False,False,False,False,False,False,False,,26618,,,
+45,Austin-Forest Park,40010,Austin,False,False,True,False,False,False,False,False,False,False,,26618,,,
+46,Austin-Lake,41260,Austin,False,False,False,True,False,False,False,False,False,False,52.0,22216,26.0,672.0,7.0
+47,Austin-Lake,41260,Austin,False,False,False,True,False,False,False,False,False,False,52.0,22216,26.0,672.0,7.0
+48,Belmont-North Main,41320,Belmont,True,False,False,False,True,False,True,False,False,False,38.0,4449,57.0,681.0,25.0
+49,Belmont-North Main,41320,Belmont,True,True,False,False,False,False,False,False,False,False,38.0,4449,57.0,681.0,25.0
+50,Belmont-North Main,41320,Belmont,True,False,False,False,True,False,True,False,False,False,38.0,4449,57.0,681.0,25.0
+51,Belmont-North Main,41320,Belmont,True,True,False,False,False,False,False,False,False,False,38.0,4449,57.0,681.0,25.0
+52,Belmont-O'Hare,40060,Belmont,False,False,True,False,False,False,False,False,False,False,15.0,21538,22.0,216.0,12.0
+53,Belmont-O'Hare,40060,Belmont,False,False,True,False,False,False,False,False,False,False,15.0,21538,22.0,216.0,12.0
+54,Berwyn,40340,Berwyn,False,True,False,False,False,False,False,False,False,False,40.0,22616,76.0,160.0,16.0
+55,Berwyn,40340,Berwyn,False,True,False,False,False,False,False,False,False,False,40.0,22616,76.0,160.0,16.0
+56,Bryn Mawr,41380,Bryn Mawr,False,True,False,False,False,False,False,False,False,False,40.0,22616,76.0,145.0,16.0
+57,Bryn Mawr,41380,Bryn Mawr,False,True,False,False,False,False,False,False,False,False,40.0,22616,76.0,145.0,16.0
+58,California-Cermak,40440,California,True,False,False,False,False,False,False,False,True,False,11.0,14920,32.0,203.0,1.0
+59,California-Cermak,40440,California,True,False,False,False,False,False,False,False,True,False,11.0,14920,32.0,203.0,1.0
+60,California-Lake,41360,California,True,False,False,True,False,False,False,False,False,False,41.0,21184,28.0,50.0,46.0
+61,California-Lake,41360,California,True,False,False,True,False,False,False,False,False,False,41.0,21184,28.0,50.0,46.0
+62,California-Milwaukee,40570,California,False,False,True,False,False,False,False,False,False,False,24.0,22535,23.0,294.0,41.0
+63,California-Milwaukee,40570,California,False,False,True,False,False,False,False,False,False,False,24.0,22535,23.0,294.0,41.0
+64,Central Park,40780,Central Park,True,False,False,False,False,False,False,False,True,False,36.0,21569,30.0,157.0,14.0
+65,Central Park,40780,Central Park,True,False,False,False,False,False,False,False,True,False,36.0,21569,30.0,157.0,14.0
+66,Central-Evanston,41250,Central,False,False,False,False,False,True,True,False,False,False,,26293,,,
+67,Central-Evanston,41250,Central,False,False,False,False,False,True,True,False,False,False,,26293,,,
+68,Central-Lake,40280,Central,True,False,False,True,False,False,False,False,False,False,52.0,22216,26.0,672.0,7.0
+69,Central-Lake,40280,Central,True,False,False,True,False,False,False,False,False,False,52.0,22216,26.0,672.0,7.0
+70,Cermak-Chinatown,41000,Cermak-Chinatown,True,True,False,False,False,False,False,False,False,False,8.0,21194,35.0,3.0,26.0
+71,Cermak-Chinatown,41000,Cermak-Chinatown,True,True,False,False,False,False,False,False,False,False,8.0,21194,35.0,3.0,26.0
+72,Cermak-McCormick Place,41690,Cermak-McCormick Place,True,False,False,True,False,False,False,False,False,False,12.0,21194,34.0,374.0,9.0
+73,Cermak-McCormick Place,41690,Cermak-McCormick Place,True,False,False,True,False,False,False,False,False,False,12.0,21194,34.0,374.0,9.0
+74,Chicago-Franklin,40710,Chicago,True,False,False,False,True,False,True,False,False,False,41.0,14926,37.0,652.0,46.0
+75,Chicago-Franklin,40710,Chicago,True,False,False,False,True,False,True,False,False,False,41.0,14926,37.0,652.0,46.0
+76,Chicago-Milwaukee,41410,Chicago,False,False,True,False,False,False,False,False,False,False,41.0,22620,25.0,522.0,46.0
+77,Chicago-Milwaukee,41410,Chicago,False,False,True,False,False,False,False,False,False,False,41.0,22620,25.0,522.0,46.0
+78,Chicago-State,41450,Chicago,True,True,False,False,False,False,False,False,False,False,22.0,21182,37.0,626.0,36.0
+79,Chicago-State,41450,Chicago,True,True,False,False,False,False,False,False,False,False,22.0,21182,37.0,626.0,36.0
+80,Cicero-Cermak,40420,Cicero,True,False,False,False,False,False,False,False,True,False,,4458,,,
+81,Cicero-Cermak,40420,Cicero,True,False,False,False,False,False,False,False,True,False,,4458,,,
+82,Cicero-Forest Park,40970,Cicero,False,False,True,False,False,False,False,False,False,False,36.0,22216,26.0,61.0,7.0
+83,Cicero-Forest Park,40970,Cicero,False,False,True,False,False,False,False,False,False,False,36.0,22216,26.0,61.0,7.0
+84,Cicero-Lake,40480,Cicero,True,False,False,True,False,False,False,False,False,False,11.0,22216,26.0,696.0,23.0
+85,Cicero-Lake,40480,Cicero,True,False,False,True,False,False,False,False,False,False,11.0,22216,26.0,696.0,23.0
+86,Clark-Division,40630,Clark-Division,True,True,False,False,False,False,False,False,False,False,22.0,14926,37.0,17.0,11.0
+87,Clark-Division,40630,Clark-Division,True,True,False,False,False,False,False,False,False,False,22.0,14926,37.0,17.0,11.0
+88,Clark-Lake,40380,Clark-Lake,True,False,True,False,False,False,False,False,False,False,22.0,14309,38.0,92.0,36.0
+89,Clark-Lake,40380,Clark-Lake,True,False,True,False,False,False,False,False,False,False,22.0,14309,38.0,92.0,36.0
+90,Clark-Lake,40380,Clark-Lake,True,False,False,True,False,False,True,False,True,True,22.0,14309,38.0,92.0,36.0
+91,Clark-Lake,40380,Clark-Lake,True,False,False,True,True,False,False,False,False,False,22.0,14309,38.0,92.0,36.0
+92,Clinton-Forest Park,40430,Clinton,False,False,True,False,False,False,False,False,False,False,48.0,14917,29.0,97.0,26.0
+93,Clinton-Forest Park,40430,Clinton,False,False,True,False,False,False,False,False,False,False,48.0,14917,29.0,97.0,26.0
+94,Clinton-Lake,41160,Clinton,True,False,False,True,False,False,False,False,True,False,22.0,4452,29.0,784.0,36.0
+95,Clinton-Lake,41160,Clinton,True,False,False,True,False,False,False,False,True,False,22.0,4452,29.0,784.0,36.0
+96,Conservatory,41670,Conservatory,True,False,False,True,False,False,False,False,False,False,11.0,21572,28.0,176.0,23.0
+97,Conservatory,41670,Conservatory,True,False,False,True,False,False,False,False,False,False,11.0,21572,28.0,176.0,23.0
+98,Cumberland,40230,Cumberland,True,False,True,False,False,False,False,False,False,False,34.0,22243,75.0,64.0,29.0
+99,Cumberland,40230,Cumberland,True,False,True,False,False,False,False,False,False,False,34.0,22243,75.0,64.0,29.0
+100,Damen-Brown,40090,Damen,True,False,False,False,True,False,False,False,False,False,13.0,21849,6.0,225.0,18.0
+101,Damen-Brown,40090,Damen,True,False,False,False,True,False,False,False,False,False,13.0,21849,6.0,225.0,18.0
+102,Damen-Cermak,40210,Damen,True,False,False,False,False,False,False,False,True,False,8.0,14920,33.0,366.0,26.0
+103,Damen-Cermak,40210,Damen,True,False,False,False,False,False,False,False,True,False,8.0,14920,33.0,366.0,26.0
+104,Damen-Milwaukee,40590,Damen,False,False,True,False,False,False,False,False,False,False,24.0,21560,25.0,481.0,41.0
+105,Damen-Milwaukee,40590,Damen,False,False,True,False,False,False,False,False,False,False,24.0,21560,25.0,481.0,41.0
+106,Davis,40050,Davis,True,False,False,False,False,True,True,False,False,False,,26293,,,
+107,Davis,40050,Davis,True,False,False,False,False,True,True,False,False,False,,26293,,,
+108,Dempster,40690,Dempster,False,False,False,False,False,True,True,False,False,False,,26293,,,
+109,Dempster,40690,Dempster,False,False,False,False,False,True,True,False,False,False,,26293,,,
+110,Dempster-Skokie,40140,Dempster-Skokie,True,False,False,False,False,False,False,True,False,False,,9460,,,
+111,Dempster-Skokie,40140,Dempster-Skokie,True,False,False,False,False,False,False,True,False,False,,9460,,,
+112,Diversey,40530,Diversey,True,False,False,False,True,False,True,False,False,False,38.0,21190,57.0,681.0,25.0
+113,Diversey,40530,Diversey,True,False,False,False,True,False,True,False,False,False,38.0,21190,57.0,681.0,25.0
+114,Division-Milwaukee,40320,Division,False,False,True,False,False,False,False,False,False,False,24.0,22620,25.0,484.0,11.0
+115,Division-Milwaukee,40320,Division,False,False,True,False,False,False,False,False,False,False,24.0,22620,25.0,484.0,11.0
+116,East 63rd-Cottage Grove,40720,Cottage Grove,True,False,False,True,False,False,False,False,False,False,53.0,22260,9.0,347.0,4.0
+117,East 63rd-Cottage Grove,40720,Cottage Grove,True,False,False,True,False,False,False,False,False,False,53.0,22260,9.0,347.0,4.0
+118,Forest Park,40390,Forest Park,True,False,True,False,False,False,False,False,False,False,,15606,,,
+119,Forest Park,40390,Forest Park,True,False,True,False,False,False,False,False,False,False,,15606,,,
+120,Foster,40520,Foster,False,False,False,False,False,True,True,False,False,False,,26293,,,
+121,Foster,40520,Foster,False,False,False,False,False,True,True,False,False,False,,26293,,,
+122,Francisco,40870,Francisco,True,False,False,False,True,False,False,False,False,False,2.0,21849,14.0,258.0,20.0
+123,Francisco,40870,Francisco,True,False,False,False,True,False,False,False,False,False,2.0,21849,14.0,258.0,20.0
+124,Fullerton,41220,Fullerton,True,True,False,False,False,False,False,False,False,False,51.0,21190,68.0,744.0,34.0
+125,Fullerton,41220,Fullerton,True,True,False,False,False,False,False,False,False,False,51.0,21190,68.0,744.0,34.0
+126,Fullerton,41220,Fullerton,True,False,False,False,True,False,True,False,False,False,51.0,21190,68.0,744.0,34.0
+127,Fullerton,41220,Fullerton,True,False,False,False,True,False,True,False,False,False,51.0,21190,68.0,744.0,34.0
+128,Garfield-Dan Ryan,41170,Garfield,True,True,False,False,False,False,False,False,False,False,12.0,14924,3.0,224.0,9.0
+129,Garfield-Dan Ryan,41170,Garfield,True,True,False,False,False,False,False,False,False,False,12.0,14924,3.0,224.0,9.0
+130,Garfield-South Elevated,40510,Garfield,True,False,False,True,False,False,False,False,False,False,12.0,21192,7.0,401.0,9.0
+131,Garfield-South Elevated,40510,Garfield,True,False,False,True,False,False,False,False,False,False,12.0,21192,7.0,401.0,9.0
+132,Grand-Milwaukee,40490,Grand,False,False,True,False,False,False,False,False,False,False,41.0,4446,25.0,109.0,46.0
+133,Grand-Milwaukee,40490,Grand,False,False,True,False,False,False,False,False,False,False,41.0,4446,25.0,109.0,46.0
+134,Grand-State,40330,Grand,True,True,False,False,False,False,False,False,False,False,22.0,21182,37.0,626.0,36.0
+135,Grand-State,40330,Grand,True,True,False,False,False,False,False,False,False,False,22.0,21182,37.0,626.0,36.0
+136,Granville,40760,Granville,True,True,False,False,False,False,False,False,False,False,40.0,4451,76.0,46.0,16.0
+137,Granville,40760,Granville,True,True,False,False,False,False,False,False,False,False,40.0,4451,76.0,46.0,16.0
+138,Halsted-63rd,40940,Halsted,True,False,False,True,False,False,False,False,False,False,53.0,21559,66.0,435.0,4.0
+139,Halsted-63rd,40940,Halsted,True,False,False,True,False,False,False,False,False,False,53.0,21559,66.0,435.0,4.0
+140,Halsted-Orange,41130,Halsted,True,False,False,False,False,False,False,False,False,True,26.0,14920,58.0,59.0,48.0
+141,Halsted-Orange,41130,Halsted,True,False,False,False,False,False,False,False,False,True,26.0,14920,58.0,59.0,48.0
+142,Harlem-Forest Park,40980,Harlem,False,False,True,False,False,False,False,False,False,False,,15606,,,
+143,Harlem-Forest Park,40980,Harlem,False,False,True,False,False,False,False,False,False,False,,15606,,,
+144,Harlem-Lake,40020,Harlem-Lake,True,False,False,True,False,False,False,False,False,False,,26611,,,
+145,Harlem-Lake,40020,Harlem-Lake,True,False,False,True,False,False,False,False,False,False,,26611,,,
+146,Harlem-O'Hare,40750,Harlem,True,False,True,False,False,False,False,False,False,False,34.0,4448,36.0,735.0,29.0
+147,Harlem-O'Hare,40750,Harlem,True,False,True,False,False,False,False,False,False,False,34.0,4448,36.0,735.0,29.0
+148,Harrison,41490,Harrison,False,True,False,False,False,False,False,False,False,False,48.0,14913,38.0,368.0,10.0
+149,Harrison,41490,Harrison,False,True,False,False,False,False,False,False,False,False,48.0,14913,38.0,368.0,10.0
+150,Howard,40900,Howard,True,False,False,False,False,True,True,True,False,False,3.0,21853,10.0,489.0,5.0
+151,Howard,40900,Howard,True,True,False,False,False,False,False,False,False,False,3.0,21853,10.0,489.0,5.0
+152,Howard,40900,Howard,True,True,False,False,False,False,False,False,False,False,3.0,21853,10.0,489.0,5.0
+153,Howard,40900,Howard,True,False,False,False,False,True,True,True,False,False,3.0,21853,10.0,489.0,5.0
+154,Indiana,40300,Indiana,True,False,False,True,False,False,False,False,False,False,12.0,4301,4.0,163.0,9.0
+155,Indiana,40300,Indiana,True,False,False,True,False,False,False,False,False,False,12.0,4301,4.0,163.0,9.0
+156,Irving Park-Brown,41460,Irving Park,True,False,False,False,True,False,False,False,False,False,13.0,21186,46.0,622.0,18.0
+157,Irving Park-Brown,41460,Irving Park,True,False,False,False,True,False,False,False,False,False,13.0,21186,46.0,622.0,18.0
+158,Irving Park-O'Hare,40550,Irving Park,False,False,True,False,False,False,False,False,False,False,28.0,22618,16.0,295.0,50.0
+159,Irving Park-O'Hare,40550,Irving Park,False,False,True,False,False,False,False,False,False,False,28.0,22618,16.0,295.0,50.0
+160,Jackson-Dearborn,40070,Jackson,True,False,True,False,False,False,False,False,False,False,22.0,14912,38.0,92.0,36.0
+161,Jackson-Dearborn,40070,Jackson,True,False,True,False,False,False,False,False,False,False,22.0,14912,38.0,92.0,36.0
+162,Jackson-State,40560,Jackson,True,True,False,False,False,False,False,False,False,False,48.0,14912,38.0,367.0,10.0
+163,Jackson-State,40560,Jackson,True,True,False,False,False,False,False,False,False,False,48.0,14912,38.0,367.0,10.0
+164,Jarvis,41190,Jarvis,False,True,False,False,False,False,False,False,False,False,3.0,21853,10.0,357.0,5.0
+165,Jarvis,41190,Jarvis,False,True,False,False,False,False,False,False,False,False,3.0,21853,10.0,357.0,5.0
+166,Jefferson Park,41280,Jefferson Park,True,False,True,False,False,False,False,False,False,False,20.0,21869,11.0,129.0,50.0
+167,Jefferson Park,41280,Jefferson Park,True,False,True,False,False,False,False,False,False,False,20.0,21869,11.0,129.0,50.0
+168,Kedzie-Brown,41180,Kedzie,True,False,False,False,True,False,False,False,False,False,2.0,21849,14.0,118.0,20.0
+169,Kedzie-Brown,41180,Kedzie,True,False,False,False,True,False,False,False,False,False,2.0,21849,14.0,118.0,20.0
+170,Kedzie-Cermak,41040,Kedzie,True,False,False,False,False,False,False,False,True,False,36.0,21569,30.0,202.0,14.0
+171,Kedzie-Cermak,41040,Kedzie,True,False,False,False,False,False,False,False,True,False,36.0,21569,30.0,202.0,14.0
+172,Kedzie-Homan-Forest Park,40250,Kedzie-Homan,True,False,True,False,False,False,False,False,False,False,36.0,21572,28.0,765.0,14.0
+173,Kedzie-Homan-Forest Park,40250,Kedzie-Homan,True,False,True,False,False,False,False,False,False,False,36.0,21572,28.0,765.0,14.0
+174,Kedzie-Lake,41070,Kedzie,True,False,False,True,False,False,False,False,False,False,41.0,21184,28.0,50.0,46.0
+175,Kedzie-Lake,41070,Kedzie,True,False,False,True,False,False,False,False,False,False,41.0,21184,28.0,50.0,46.0
+176,Kedzie-Midway,41150,Kedzie,True,False,False,False,False,False,False,False,False,True,49.0,22248,55.0,776.0,8.0
+177,Kedzie-Midway,41150,Kedzie,True,False,False,False,False,False,False,False,False,True,49.0,22248,55.0,776.0,8.0
+178,Kimball,41290,Kimball,True,False,False,False,True,False,False,False,False,False,2.0,21849,14.0,118.0,20.0
+179,Kimball,41290,Kimball,True,False,False,False,True,False,False,False,False,False,2.0,21849,14.0,118.0,20.0
+180,King Drive,41140,King Drive,True,False,False,True,False,False,False,False,False,False,53.0,22260,9.0,332.0,4.0
+181,King Drive,41140,King Drive,True,False,False,True,False,False,False,False,False,False,53.0,22260,9.0,332.0,4.0
+182,Kostner,40600,Kostner,True,False,False,False,False,False,False,False,True,False,36.0,21569,30.0,753.0,14.0
+183,Kostner,40600,Kostner,True,False,False,False,False,False,False,False,True,False,36.0,21569,30.0,753.0,14.0
+184,LaSalle,41340,LaSalle,False,False,True,False,False,False,False,False,False,False,48.0,14913,38.0,92.0,10.0
+185,LaSalle,41340,LaSalle,False,False,True,False,False,False,False,False,False,False,48.0,14913,38.0,92.0,10.0
+186,LaSalle-Van Buren,40160,LaSalle-Van Buren,False,False,False,False,False,False,True,False,True,True,48.0,14913,38.0,92.0,10.0
+187,LaSalle-Van Buren,40160,LaSalle-Van Buren,False,False,False,False,True,False,False,False,False,False,48.0,14913,38.0,92.0,10.0
+188,Lake-State,41660,Lake,True,True,False,False,False,False,False,False,False,False,22.0,14309,38.0,580.0,36.0
+189,Lake-State,41660,Lake,True,True,False,False,False,False,False,False,False,False,22.0,14309,38.0,580.0,36.0
+190,Laramie,40700,Laramie,True,False,False,True,False,False,False,False,False,False,11.0,22216,26.0,696.0,23.0
+191,Laramie,40700,Laramie,True,False,False,True,False,False,False,False,False,False,11.0,22216,26.0,696.0,23.0
+192,Lawrence,40770,Lawrence,False,True,False,False,False,False,False,False,False,False,40.0,22616,31.0,634.0,39.0
+193,Lawrence,40770,Lawrence,False,True,False,False,False,False,False,False,False,False,40.0,22616,31.0,634.0,39.0
+194,Library,40850,Harold Washington Library-State-Van Buren,True,False,False,False,True,False,False,False,False,False,48.0,14913,38.0,92.0,10.0
+195,Library,40850,Harold Washington Library-State-Van Buren,True,False,False,False,False,False,True,False,True,True,48.0,14913,38.0,92.0,10.0
+196,Linden,41050,Linden,True,False,False,False,False,True,True,False,False,False,,9857,,,
+197,Linden,41050,Linden,True,False,False,False,False,True,True,False,False,False,,9857,,,
+198,Logan Square,41020,Logan Square,True,False,True,False,False,False,False,False,False,False,15.0,22535,23.0,72.0,12.0
+199,Logan Square,41020,Logan Square,True,False,True,False,False,False,False,False,False,False,15.0,22535,23.0,72.0,12.0
+200,Loyola,41300,Loyola,True,True,False,False,False,False,False,False,False,False,3.0,21853,10.0,48.0,5.0
+201,Loyola,41300,Loyola,True,True,False,False,False,False,False,False,False,False,3.0,21853,10.0,48.0,5.0
+202,Main,40270,Main,False,False,False,False,False,True,True,False,False,False,,26609,,,
+203,Main,40270,Main,False,False,False,False,False,True,True,False,False,False,,26609,,,
+204,Medical Center,40810,Illinois Medical District,True,False,True,False,False,False,False,False,False,False,48.0,21184,29.0,90.0,46.0
+205,Medical Center,40810,Illinois Medical District,True,False,True,False,False,False,False,False,False,False,48.0,21184,29.0,90.0,46.0
+206,Merchandise Mart,40460,Merchandise Mart,True,False,False,False,True,False,True,False,False,False,22.0,4446,37.0,670.0,36.0
+207,Merchandise Mart,40460,Merchandise Mart,True,False,False,False,True,False,True,False,False,False,22.0,4446,37.0,670.0,36.0
+208,Midway Airport,40930,Midway,True,False,False,False,False,False,False,False,False,True,35.0,21867,53.0,86.0,15.0
+209,Midway Airport,40930,Midway,True,False,False,False,False,False,False,False,False,True,35.0,21867,53.0,86.0,15.0
+210,Monroe-Dearborn,40790,Monroe,False,False,True,False,False,False,False,False,False,False,22.0,14311,38.0,92.0,36.0
+211,Monroe-Dearborn,40790,Monroe,False,False,True,False,False,False,False,False,False,False,22.0,14311,38.0,92.0,36.0
+212,Monroe-State,41090,Monroe,False,True,False,False,False,False,False,False,False,False,22.0,14311,38.0,367.0,36.0
+213,Monroe-State,41090,Monroe,False,True,False,False,False,False,False,False,False,False,22.0,14311,38.0,367.0,36.0
+214,Montrose-Brown,41500,Montrose,True,False,False,False,True,False,False,False,False,False,13.0,22616,6.0,225.0,18.0
+215,Montrose-Brown,41500,Montrose,True,False,False,False,True,False,False,False,False,False,13.0,22616,6.0,225.0,18.0
+216,Montrose-O'Hare,41330,Montrose,False,False,True,False,False,False,False,False,False,False,20.0,21869,16.0,362.0,38.0
+217,Montrose-O'Hare,41330,Montrose,False,False,True,False,False,False,False,False,False,False,20.0,21869,16.0,362.0,38.0
+218,Morgan-Lake,41510,Morgan,True,False,False,True,False,False,False,False,True,False,41.0,14917,29.0,63.0,46.0
+219,Morgan-Lake,41510,Morgan,True,False,False,True,False,False,False,False,True,False,41.0,14917,29.0,63.0,46.0
+220,Morse,40100,Morse,False,True,False,False,False,False,False,False,False,False,3.0,21853,10.0,358.0,5.0
+221,Morse,40100,Morse,False,True,False,False,False,False,False,False,False,False,3.0,21853,10.0,358.0,5.0
+222,North-Clybourn,40650,North-Clybourn,False,True,False,False,False,False,False,False,False,False,51.0,22620,37.0,108.0,11.0
+223,North-Clybourn,40650,North-Clybourn,False,True,False,False,False,False,False,False,False,False,51.0,22620,37.0,108.0,11.0
+224,Noyes,40400,Noyes,False,False,False,False,False,True,True,False,False,False,,26293,,,
+225,Noyes,40400,Noyes,False,False,False,False,False,True,True,False,False,False,,26293,,,
+226,O'Hare Airport,40890,O'Hare,True,False,True,False,False,False,False,False,False,False,34.0,16197,75.0,668.0,29.0
+227,O'Hare Airport,40890,O'Hare,True,False,True,False,False,False,False,False,False,False,34.0,16197,75.0,668.0,29.0
+228,Oak Park-Forest Park,40180,Oak Park,False,False,True,False,False,False,False,False,False,False,,26618,,,
+229,Oak Park-Forest Park,40180,Oak Park,False,False,True,False,False,False,False,False,False,False,,26618,,,
+230,Oak Park-Lake,41350,Oak Park,False,False,False,True,False,False,False,False,False,False,,26611,,,
+231,Oak Park-Lake,41350,Oak Park,False,False,False,True,False,False,False,False,False,False,,26611,,,
+232,Oakton-Skokie,41680,Oakton-Skokie,True,False,False,False,False,False,False,True,False,False,,9460,,,
+233,Oakton-Skokie,41680,Oakton-Skokie,True,False,False,False,False,False,False,True,False,False,,9460,,,
+234,Paulina,41310,Paulina,True,False,False,False,True,False,False,False,False,False,16.0,4449,57.0,239.0,18.0
+235,Paulina,41310,Paulina,True,False,False,False,True,False,False,False,False,False,16.0,4449,57.0,239.0,18.0
+236,Polk,41030,Polk,True,False,False,False,False,False,False,False,True,False,48.0,21184,29.0,5.0,46.0
+237,Polk,41030,Polk,True,False,False,False,False,False,False,False,True,False,48.0,21184,29.0,5.0,46.0
+238,Pulaski-Cermak,40150,Pulaski,True,False,False,False,False,False,False,False,True,False,36.0,21569,30.0,752.0,14.0
+239,Pulaski-Cermak,40150,Pulaski,True,False,False,False,False,False,False,False,True,False,36.0,21569,30.0,752.0,14.0
+240,Pulaski-Forest Park,40920,Pulaski,False,False,True,False,False,False,False,False,False,False,36.0,21572,27.0,675.0,14.0
+241,Pulaski-Forest Park,40920,Pulaski,False,False,True,False,False,False,False,False,False,False,36.0,21572,27.0,675.0,14.0
+242,Pulaski-Lake,40030,Pulaski,True,False,False,True,False,False,False,False,False,False,11.0,21572,27.0,658.0,23.0
+243,Pulaski-Lake,40030,Pulaski,True,False,False,True,False,False,False,False,False,False,11.0,21572,27.0,658.0,23.0
+244,Pulaski-Orange,40960,Pulaski,True,False,False,False,False,False,False,False,False,True,35.0,22248,60.0,793.0,6.0
+245,Pulaski-Orange,40960,Pulaski,True,False,False,False,False,False,False,False,False,True,35.0,22248,60.0,793.0,6.0
+246,Quincy-Wells,40040,Quincy-Wells,False,False,False,False,False,False,True,False,True,True,22.0,14912,38.0,92.0,36.0
+247,Quincy-Wells,40040,Quincy-Wells,False,False,False,False,True,False,False,False,False,False,22.0,14912,38.0,92.0,36.0
+248,Racine,40470,Racine,False,False,True,False,False,False,False,False,False,False,48.0,14917,29.0,88.0,23.0
+249,Racine,40470,Racine,False,False,True,False,False,False,False,False,False,False,48.0,14917,29.0,88.0,23.0
+250,Ridgeland,40610,Ridgeland,False,False,False,True,False,False,False,False,False,False,,26615,,,
+251,Ridgeland,40610,Ridgeland,False,False,False,True,False,False,False,False,False,False,,26615,,,
+252,Rockwell,41010,Rockwell,True,False,False,False,True,False,False,False,False,False,13.0,21849,6.0,666.0,18.0
+253,Rockwell,41010,Rockwell,True,False,False,False,True,False,False,False,False,False,13.0,21849,6.0,666.0,18.0
+254,Roosevelt,41400,Roosevelt,True,False,False,True,False,False,False,False,False,True,48.0,14913,34.0,374.0,9.0
+255,Roosevelt,41400,Roosevelt,True,True,False,False,False,False,False,False,False,False,48.0,14913,34.0,374.0,9.0
+256,Roosevelt,41400,Roosevelt,True,False,False,True,False,False,False,False,False,True,48.0,14913,34.0,374.0,9.0
+257,Roosevelt,41400,Roosevelt,True,True,False,False,False,False,False,False,False,False,48.0,14913,34.0,374.0,9.0
+258,Rosemont,40820,Rosemont,True,False,True,False,False,False,False,False,False,False,,16197,,,
+259,Rosemont,40820,Rosemont,True,False,True,False,False,False,False,False,False,False,,16197,,,
+260,Sedgwick,40800,Sedgwick,True,False,False,False,True,False,True,False,False,False,51.0,14926,37.0,309.0,11.0
+261,Sedgwick,40800,Sedgwick,True,False,False,False,True,False,True,False,False,False,51.0,14926,37.0,309.0,11.0
+262,Sheridan,40080,Sheridan,False,True,False,False,False,False,False,False,False,False,38.0,21186,57.0,83.0,39.0
+263,Sheridan,40080,Sheridan,False,True,False,False,False,False,False,False,False,False,38.0,21186,57.0,83.0,39.0
+264,Sheridan,40080,Sheridan,False,False,False,False,False,False,False,False,False,False,38.0,21186,57.0,83.0,39.0
+265,Sheridan,40080,Sheridan,False,False,False,False,False,False,False,False,False,False,38.0,21186,57.0,83.0,39.0
+266,South Boulevard,40840,South Boulevard,False,False,False,False,False,True,True,False,False,False,,26609,,,
+267,South Boulevard,40840,South Boulevard,False,False,False,False,False,True,True,False,False,False,,26609,,,
+268,Southport,40360,Southport,True,False,False,False,True,False,False,False,False,False,38.0,4449,57.0,729.0,25.0
+269,Southport,40360,Southport,True,False,False,False,True,False,False,False,False,False,38.0,4449,57.0,729.0,25.0
+270,Sox-35th-Dan Ryan,40190,Sox-35th,True,True,False,False,False,False,False,False,False,False,26.0,21194,35.0,376.0,48.0
+271,Sox-35th-Dan Ryan,40190,Sox-35th,True,True,False,False,False,False,False,False,False,False,26.0,21194,35.0,376.0,48.0
+272,State-Lake,40260,State-Lake,False,False,False,True,False,False,True,False,True,True,22.0,14309,38.0,580.0,36.0
+273,State-Lake,40260,State-Lake,False,False,False,True,True,False,False,False,False,False,22.0,14309,38.0,580.0,36.0
+274,Thorndale,40880,Thorndale,False,True,False,False,False,False,False,False,False,False,40.0,4451,76.0,213.0,16.0
+275,Thorndale,40880,Thorndale,False,True,False,False,False,False,False,False,False,False,40.0,4451,76.0,213.0,16.0
+276,UIC-Halsted,40350,UIC-Halsted,True,False,True,False,False,False,False,False,False,False,48.0,14917,29.0,97.0,26.0
+277,UIC-Halsted,40350,UIC-Halsted,True,False,True,False,False,False,False,False,False,False,48.0,14917,29.0,97.0,26.0
+278,Washington-Dearborn,40370,Washington,False,False,True,False,False,False,False,False,False,False,22.0,14310,38.0,92.0,36.0
+279,Washington-Dearborn,40370,Washington,False,False,True,False,False,False,False,False,False,False,22.0,14310,38.0,92.0,36.0
+280,Washington-Wabash,41700,Washington-Wabash,True,False,False,True,False,False,True,False,True,True,22.0,14310,38.0,580.0,36.0
+281,Washington-Wabash,41700,Washington-Wabash,True,False,False,True,True,False,False,False,False,False,22.0,14310,38.0,580.0,36.0
+282,Washington-Wells,40730,Washington-Wells,True,False,False,False,False,False,True,False,True,True,22.0,14310,38.0,92.0,36.0
+283,Washington-Wells,40730,Washington-Wells,True,False,False,False,True,False,False,False,False,False,22.0,14310,38.0,92.0,36.0
+284,Wellington,41210,Wellington,True,False,False,False,True,False,True,False,False,False,38.0,4449,57.0,681.0,25.0
+285,Wellington,41210,Wellington,True,False,False,False,True,False,True,False,False,False,38.0,4449,57.0,681.0,25.0
+286,Western-Brown,41480,Western,True,False,False,False,True,False,False,False,False,False,13.0,21849,6.0,665.0,18.0
+287,Western-Brown,41480,Western,True,False,False,False,True,False,False,False,False,False,13.0,21849,6.0,665.0,18.0
+288,Western-Cermak,40740,Western,True,False,False,False,False,False,False,False,True,False,8.0,14920,33.0,4.0,26.0
+289,Western-Cermak,40740,Western,True,False,False,False,False,False,False,False,True,False,8.0,14920,33.0,4.0,26.0
+290,Western-Forest Park,40220,Western,False,False,True,False,False,False,False,False,False,False,48.0,21184,29.0,756.0,23.0
+291,Western-Forest Park,40220,Western,False,False,True,False,False,False,False,False,False,False,48.0,21184,29.0,756.0,23.0
+292,Western-Milwaukee,40670,Western,True,False,True,False,False,False,False,False,False,False,24.0,22535,23.0,373.0,40.0
+293,Western-Milwaukee,40670,Western,True,False,True,False,False,False,False,False,False,False,24.0,22535,23.0,373.0,40.0
+294,Western-Orange,40310,Western,True,False,False,False,False,False,False,False,False,True,19.0,14924,61.0,775.0,3.0
+295,Western-Orange,40310,Western,True,False,False,False,False,False,False,False,False,True,19.0,14924,61.0,775.0,3.0
+296,Wilson,40540,Wilson,True,True,False,False,False,False,False,False,False,False,37.0,22616,31.0,241.0,39.0
+297,Wilson,40540,Wilson,True,True,False,False,False,False,False,False,False,False,37.0,22616,31.0,241.0,39.0
+298,Wilson,40540,Wilson,True,False,False,False,False,False,True,False,False,False,37.0,22616,31.0,241.0,39.0
+299,Wilson,40540,Wilson,True,False,False,False,False,False,True,False,False,False,37.0,22616,31.0,241.0,39.0
