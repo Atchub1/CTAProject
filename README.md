@@ -1,11 +1,11 @@
 ### Dashboard for CTA Ridership Trends and Rider Sentiment 
-##### Amy Cleveland
+##### Amy Cleveland and Joseph Wantroba
 Based on work by
-[Amy Cleveland](https://github.com/),
-[Joseph Wantroba](https://github.com/jwantrob),
 [Garima Chauhan](https://github.com/GarimaChauhan16),
-[Gabriela Hernandez](https://github.com/gaby614), and
-[Kelly Lao](https://github.com/Kellylao325)
+[Amy Cleveland](https://github.com/),
+[Gabriela Hernandez](https://github.com/gaby614),
+[Kelly Lao](https://github.com/Kellylao325), and
+[Joseph Wantroba](https://github.com/jwantrob)
 
 Orignial Group Work
 * [CTA Rideship Trend visualization last 10 Years](https://github.com/Atchub1)
