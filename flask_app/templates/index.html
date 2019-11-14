@@ -22,8 +22,8 @@
     <h1>CTA Ridership Dashboard</h1>
   </div>
 
-
- <!-- The div that holds our map -->
+<!-- 
+The div that holds our map
 <div class = "row">
   <div class="col-md-3 col-sm-6">
     <div class="well well-sm" id = "year">
@@ -38,8 +38,28 @@
       </div>
     </div>
   </div>
-</div>
- 
+</div> -->
+
+ <!-- The div that holds our map -->
+ <div class = "row">
+    <div class="col-md-3 col-sm-6">
+      <div class="well well-sm" id = "year">
+        <h5 class = "font">Select Year:</h5>
+        <select id="selDatasetYear" onchange="yearChanged(this.value)"></select>
+      </div>
+    </div>
+    <div class="col-md-6 col-lg-12 ">
+      <div id="map-holder">
+        <div class="container fill" id="map-cont">
+          <div id="map"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+    
+
+
+
 <!-- Line specific divs -->
 </div>
   <div class="row">

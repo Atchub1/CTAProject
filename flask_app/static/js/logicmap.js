@@ -17,7 +17,7 @@ function wholeMap (year) {
   function createMap(ridershipLayer) {
     // console.log(ridershipLayer);
     //Remove all html and replace to reinitialize the map each time
-    document.getElementById('map-cont').innerHTML = "<div id='map' style='width: 200px; height: 400px; min-height: 100%; min-width: %100; display: block;'></div>";
+    document.getElementById('map-cont').innerHTML = "<div id='map'</div>";
         // Create the tile layer that will be the background of our map
         var outdoorsmap = L.tileLayer("https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}", {
         attribution: attribution,

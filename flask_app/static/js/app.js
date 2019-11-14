@@ -1,22 +1,19 @@
+// Function that builds the metadata panel
 function buildMetadata(station) {
 
-  // @TODO: Complete the following function that builds the metadata panel
-
-  // Use `d3.json` to fetch the metadata for a sample
+  // Fetch the metadata for the station
     var url = `/metadata/${station}`;
 
 
-    // Use d3 to select the panel with id of `#sample-metadata`
+    // Select the panel with id of `#sample-metadata`
     d3.json(url, function(error, station) {
       if (error) return console.warn(error);
       var sampleMetadata = d3.select("#sample-metadata");
   
-    // Use `.html("") to clear any existing metadata
+    // Clear any existing metadata
       sampleMetadata.html("");
 
-    // Use `Object.entries` to add each key and value pair to the panel
-    // Hint: Inside the loop, you will need to use d3 to append new
-    // tags for each key-value in the metadata.
+    // Add each key and value pair to the panel
       Object.entries(station).forEach(function ([key, value]) {
         var row = sampleMetadata.append("p");
         row.text(`${key}: ${value}`);
@@ -25,13 +22,14 @@ function buildMetadata(station) {
 }
 
 
+// Function that builds the station line chart
 function buildLineChart(station) {
-  // TO DO: Iterate through all states
+  //Iterate through all stations
   var url = `/total/${station}`
   
   d3.json(url, function(error, data) {     
     if (error) return console.warn(error);  
-      // Build line chart
+      // Build the line chart
       var x= data.year;
       var y= data.ridership;
       var values= data.year;
@@ -53,6 +51,8 @@ function buildLineChart(station) {
   });
 }
 
+
+// Function that builds the station bar chart
 function buildBarChart(station) {
   var url = `/station/${station}`
   
@@ -99,14 +99,13 @@ function buildBarChart(station) {
 
 }
 
-
+// Function to build the station selector and initiate the metadata, line, and bar chart functions 
 function init() {      
-
   // Set up the dropdown menu
   // Grab a reference to the dropdown select element
   var selector = d3.select("#selDataset");
 
-  // Use the list of sample names to populate the select options
+  // Use the list of station names to populate the select options
   d3.json("/stations", function(error, data) {
     if (error) return console.warn(error);
     data.forEach((station) => {
@@ -115,36 +114,17 @@ function init() {
           .text(station)
           .property("value", station);
       });
-  // d3.json("/stations").then((stationNames) => {
-  //   stationNames.forEach((station) => {
-  //   selector
-  //       .append("option")
-  //       .text(station)
-  //       .property("value", station);
-  //   });
-  
-  // Use the first sample from the list to build the initial plots
+
+  // Use the first station from the list to build the initial plots
   const firstStation = data[0];
   
   buildMetadata(firstStation);
   buildLineChart(firstStation);
   buildBarChart(firstStation);
   });
-
-  // //create a list of years to populate select options
-  // var selector2 = d3.select("#selDatasetYear");
-  // d3.json("/years").then((years) => {
-  //   console.log(years)
-  //   years.forEach((year) => {
-  //     selector2
-  //         .append("option")
-  //         .text(year)
-  //         .property("value", year);
-  //   });
-  //   const firstYear = years[0];
-  // });
 }
 
+// Function to update the metadata, line, and bar charts with new information each time a station is chosen from the station well
 function optionChanged(newStation) {
   // Fetch new data each time a new state is selected
   buildMetadata(newStation);
@@ -152,4 +132,6 @@ function optionChanged(newStation) {
   buildBarChart(newStation);
 }
 
+
+// Call the function to build the webpage
 init();
