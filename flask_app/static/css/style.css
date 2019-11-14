@@ -4,7 +4,6 @@ html, body
 }
 
 
-
 /* Jumbotron styling */
 #jumb{
     padding: 0.2em;
@@ -13,14 +12,14 @@ html, body
 } 
 
 /* Map styling */
-.year {
+#year {
     margin-left: 100px;
-    background-color: #5252a1;
+    background-color:#D4E1EA;
 }
 
-#map-holder {
+/* #map-holder {
     height: 100%;
-}
+} */
 
 .fill
 {
@@ -43,10 +42,10 @@ html, body
 
 /* Station Specific graph styling */
 
-.station {
+#station {
     margin-left: 50px;
     margin-top: 200px;
-    background-color: #5252a1;
+    background-color: #D4E1EA;
 }
 
 

@@ -23,18 +23,14 @@
   </div>
 
 
-
  <!-- The div that holds our map -->
-<div class = "row-map">
+<div class = "row">
   <div class="col-md-3 col-sm-6">
-      <div class="well year" style="background-color:#D4E1EA">
-    <!-- <div class="well year"> -->
+    <div class="well" id = "year">
       <h5 class = "font">Select Year:</h5>
       <select id="selDatasetYear" onchange="yearChanged(this.value)"></select>
     </div>
   </div>
-</div>
-<div class = "row">
   <div class="col-md-6">
     <div id="map-holder">
       <div class="container fill" id="map-cont">
@@ -42,13 +38,13 @@
       </div>
     </div>
   </div>
-
-  <!-- Line specific divs -->
+</div>
+ 
+<!-- Line specific divs -->
 </div>
   <div class="row">
     <div class="col-md-3 col-sm-6 metadata">
-        <div class="well station" style="background-color:#D4E1EA">
-      <!-- <div class="well station"> -->
+      <div class="well" id = "station">
         <h5 class = "font">Select Station:</h5>
         <select id="selDataset" onchange="optionChanged(this.value)"></select>
       </div>
