@@ -44,7 +44,7 @@ html, body {
 /* Station Specific graph styling */
 
 #station {
-    margin-left: 50px;
+    margin-left: 33px;
     margin-top: 200px;
     background-color: #D4E1EA;
 }
@@ -54,7 +54,7 @@ html, body {
 }
 
 .panel {
-    margin-left: 50px;
+    margin-left: 33px;
     margin-top: 20px;
 }
 
@@ -73,8 +73,7 @@ html, body {
 }
 
 #bar {
-margin-left: 30px;
-padding-left: 100px;
+margin-left: 417px;
 }
 
 

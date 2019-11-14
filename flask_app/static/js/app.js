@@ -44,6 +44,8 @@ function buildLineChart(station) {
 
       var layout = {
           title: `Total Ridership for: ${station}`,
+          heigth: 500,
+          width: 827,
           xaxis: { title: "Year"},
           yaxis: { title: "Total Ridership over the years"}
       };
@@ -90,6 +92,8 @@ function buildBarChart(station) {
 
       var layout = {
           title: `Average Day-Type Ridership for: ${station}`,
+          height: 500,
+          width: 827,
           xaxis: { title: "Year"},
           yaxis: { title: "Average Day-Type Ridership"},
           barmode: 'stack'
