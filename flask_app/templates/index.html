@@ -13,20 +13,22 @@
   <link rel="stylesheet" type="text/css" href="static/css/style.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 </head>
+
+
 <body style="background-color : #f2f1f0">
   
-  <!-- The div that holds our map -->
-<div class="container background">
-  <div class="row">
-    <div class="col-md-12 jumbotron text-center" style="background-color:#5252a1">
-      <h1>CTA Ridership Dashboard</h1>
-        <p>Use the interactive charts below to explore the dataset</p>
-    </div>
+ <!-- Jumbotron div -->
+  <div class="col-md-12 jumbotron text-center" id = "jumb">
+    <h1>CTA Ridership Dashboard</h1>
   </div>
-</div>
+
+
+
+ <!-- The div that holds our map -->
 <div class = "row-map">
   <div class="col-md-3 col-sm-6">
-    <div class="well year" style="background-color:#c3c3d4">
+      <div class="well year" style="background-color:#D4E1EA">
+    <!-- <div class="well year"> -->
       <h5 class = "font">Select Year:</h5>
       <select id="selDatasetYear" onchange="yearChanged(this.value)"></select>
     </div>
@@ -41,11 +43,12 @@
     </div>
   </div>
 
-
+  <!-- Line specific divs -->
 </div>
   <div class="row">
     <div class="col-md-3 col-sm-6 metadata">
-      <div class="well station" style="background-color:#c3c3d4">
+        <div class="well station" style="background-color:#D4E1EA">
+      <!-- <div class="well station"> -->
         <h5 class = "font">Select Station:</h5>
         <select id="selDataset" onchange="optionChanged(this.value)"></select>
       </div>
