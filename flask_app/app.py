@@ -94,8 +94,8 @@ def station_metadata(station):
             line.append(key)
 
     # Add space between list items
-    line_color = [ f' {x} ' for x in line]
-    colors["Line(s)"] = line
+    line_color = [ f' {x}' for x in line]
+    colors["Line(s)"] = line_color
     print(colors)
 
     station_metadata = {}

@@ -58,6 +58,10 @@ html, body {
     margin-top: 20px;
 }
 
+.panel-body  {
+    word-wrap: break-word;
+}
+
 .metadata {
     padding: 10px;
     margin-top: -150px;
