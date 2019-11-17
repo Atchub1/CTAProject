@@ -4,6 +4,10 @@ import pandas as pd
 import numpy as np
 import math as math
 import sqlalchemy
+import datetime
+from datetime import timedelta 
+
+
 from sqlalchemy.ext.automap import automap_base
 from sqlalchemy.orm import Session
 from sqlalchemy import create_engine
@@ -32,7 +36,7 @@ Weekday_Data = Base.classes.weekday_data
 Saturday_Data = Base.classes.saturday_data
 Sunday_Data = Base.classes.sunday_holiday_data
 Ten_Year_Ridership = Base.classes.ten_year_ridership
-
+Twitter_Sentiment = Base.classes.twitter_sentiment
 
 
 
@@ -245,6 +249,77 @@ def ten_year_ridership(year):
     
     data2 = pd.DataFrame(data).to_dict('records')
     return jsonify(data2)
+
+
+# Route to obtain the list of weeks
+@app.route("/weeks")
+def weeks():
+    firstweek = datetime.date(2019, 10, 20)
+    startweek = firstweek
+    totalweeks = 12
+    weeks = [] 
+    for x in range(0,totalweeks+1):
+        if x == 0:
+            week = startweek
+            weeks.append(week.strftime("%Y-%m-%d"))
+        else:
+            week = week + timedelta(days=7)
+            weeks.append(week.strftime("%Y-%m-%d"))
+
+    return jsonify(weeks)
+
+
+# @app.route("/weeks/<week>")
+# def twitter_sentiment_by_week(week):
+
+#     #Get list of years and column placement for iloc. Assumes year columns start at position 2
+#     startyear = 2008
+#     totalyears = 10
+#     years = [] 
+#     references = []
+#     for x in range(0,totalyears+1):
+#         if x == 0:
+#             year2 = startyear
+#             years.append(year2)
+#             reference = 3
+#             references.append(reference)
+#         else:
+#             year2 = year2 + 1
+#             years.append(year2)
+#             reference = reference + 1
+#             references.append(reference)
+#     year_dict = dict(zip(years, references))
+
+#     #Get column number based on users chosen year
+#     column = year_dict[int(year)]
+#     # print(column)
+
+#     # Pull in data from the database
+#     stmt = db.session.query(Twitter_Sentiment).statement
+#     df = pd.read_sql_query(stmt, db.session.bind)
+
+#     # Get the ridership data for the year chosen
+#     ridership_data = df.iloc[:, column].tolist()
+#     ridershipnona = [0 if math.isnan(x) else x for x in ridership_data]
+#     # print(ridership_data)
+
+#     # Get the list of station names.  Assumes position 1 in table of database
+#     stations = df.iloc[:, 2].tolist()
+#     lat = df.iloc[:,25].tolist()
+#     lon = df.iloc[:,26].tolist()
+#     #ridership = ridership_data.values[0][3:]
+
+#     data = {
+#         'ridership': ridershipnona,
+#         'lat' : lat,
+#         'lon' : lon,
+#         'stations': stations          
+#     }
+    
+#     data2 = pd.DataFrame(data).to_dict('records')
+#     return jsonify(data2)
+
+
     
 
 if __name__ == "__main__":
