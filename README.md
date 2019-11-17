@@ -13,4 +13,4 @@ Orignial Group Work
 
 ![Cottage Grove Train](https://github.com/Atchub1/CTAProject/blob/master/Images/CottageGrove.JPG)
 
-In this project we built a web dashboard which shows a ridership trend for the Chicago Transit Authority (CTA) over last years.
+In this project we built a web dashboard which shows ridership trends for the Chicago Transit Authority (CTA) over last years. The Dashboard also includes an analysis of rider sentiment based on Tweets from 10/30/19 - 11/08/19.
